@@ -17,3 +17,4 @@ IDEA:   Maybe use PIL for creating colourful Images
             For Example place points and assign pixels to the closest point
             Change the shape of the clusters
         Use information about range to change the colour and create shapes by learning.
+        Maybe use small shapes inside big shapes to get nicer pictures
